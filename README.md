@@ -8,7 +8,7 @@ npm init
 npm i --save node-rdkafka 
 ```
 The two programs to produce and consume are:
-kafkaconsumer.js 	
+kafkaconsumer.js   	
 kafkaproducer.js
 
 The endpoint, cert, and topic are hardcoded.  We can make these variables moving forward.
