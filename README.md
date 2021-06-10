@@ -11,5 +11,5 @@ The two programs to produce and consume are:
 kafkaconsumer.js   	
 kafkaproducer.js
 
-The endpoint, cert, and topic are hardcoded.  We can make these variables moving forward.
+The endpoint, cert, and topic are hardcoded in the code.  We can make these variables moving forward.
 
