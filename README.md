@@ -1,6 +1,6 @@
 # TYSKafkaSample
 
-Starting the NodeJS Application
+Starting the NodeJS Application.
 This article is built around the node-rdkafka npm library. This is a third party library provided for securely connecting to Kafka streams.
 ```
 mkdir ibm-es-nodejs 
